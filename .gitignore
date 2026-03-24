@@ -1,0 +1,4 @@
+.env
+node_modules/
+reminder.log
+reminder.error.log
